@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Other Project Files I don't want going up to GitHub
+uk_geocodes.csv
+BFAM - MASTER FINAL.ipynb
+Load GS Ests.ipynb
+BFAM UK Download.ipynb
+BFAM Broader Search.ipynb
+BFAM Netherlands Download INCOMPLETE.ipynb
+BFAM_uk_search_results.csv
+BFAM - Bright Horizons Family Solutions.ipynb
+BFAM_remove_ids.csv
+BFAM - LinkedIn Search.ipynb
+
