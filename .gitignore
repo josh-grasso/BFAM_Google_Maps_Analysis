@@ -140,3 +140,5 @@ BFAM - Bright Horizons Family Solutions.ipynb
 BFAM_remove_ids.csv
 BFAM - LinkedIn Search.ipynb
 
+#Ignore Image Files
+*.png
